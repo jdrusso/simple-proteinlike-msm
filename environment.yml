@@ -1,0 +1,13 @@
+name: protein-like_msm
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyterlab
+  - numpy
+  - matplotlib
+  - rich
+  - tqdm
+  - scipy
+  - deeptime
+  - MDAnalysis
